@@ -1,0 +1,17 @@
+6
+Job No.   CPU Burst   Time of Arrival
+1         18          0 ms
+2         25          4 ms
+3         19          6 ms
+4         30          7 ms
+5         24          9 ms
+6         12          10 ms
+7         16          11 ms
+8         30          15 ms
+9         26          17 ms
+10         30          18 ms
+11         28          22 ms
+12         22          24 ms
+13         25          28 ms
+14         11          29 ms
+15         12          32 ms
